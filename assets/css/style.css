@@ -23,6 +23,17 @@
   opacity: .8;
 }
 
+.icon-div{
+  margin-left: 12%;
+}
+.icon-div img{
+
+  border-radius: 40%;
+  color: white;
+}
+.icon-div img:hover{
+  opacity: .5;
+}
 
 /*end doha*/
 
